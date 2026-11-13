@@ -1,3 +1,9 @@
+## Fork context
+
+This repository is a fork of [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan). The upstream documentation and license notices are retained below. Repository presence alone does not identify which changes were made by the fork maintainer; review the commit comparison for that purpose. Keep personal configuration, credentials and datasets outside Git, and use synthetic fixtures when sharing reproductions.
+
+---
+
 <img width="600" alt="kan_plot" src="https://github.com/KindXiaoming/pykan/assets/23551623/a2d2d225-b4d2-4c1e-823e-bc45c7ea96f9">
 
 # Kolmogorov-Arnold Networks (KANs)
